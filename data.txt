@@ -1,9 +1,0 @@
-Jones		3
-Bob			2
-Dan			0
-Brian		1
-Richard		0
-Jake		1
-Michael		1
-Bill		0
-Deville		0
