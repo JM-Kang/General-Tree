@@ -1,0 +1,9 @@
+Medrod			4	99
+Meine			0	50
+Jeong-Ho		0	55
+Haneul			2	65
+Gilberto		0	90
+Vincent			0	60
+Cuauhtémoc		1	80
+Karpos			1	70
+Karp			0	65

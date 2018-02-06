@@ -1,0 +1,9 @@
+Jones Bob Dan Brian Richard Jake Michael Bill Deville  
+Bob is Jones' son
+Dan is Jones' son
+Brian is Jones' son
+Brian is Dan's the youngest brother
+Richard is the oldest brother
+Richard is Jake' brother
+Bill's father is Jake
+

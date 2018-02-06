@@ -1,0 +1,9 @@
+Eseoghene		2	99 
+Ennius			0	50
+Bjarni			1	80
+Vikram			2	75
+Martyn			0	55
+Ferdi			1	70
+Anil			1	65
+Sasha			1	60
+Cheyenne		0	58

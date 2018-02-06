@@ -1,0 +1,9 @@
+Jones		3	99
+Bob			2	25
+Dan			0	30
+Brian		1	45
+Richard		0	10
+Jake		1	20
+Michael		1	40
+Bill		0	15
+Deville		0	35
