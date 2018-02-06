@@ -1,9 +1,0 @@
-Genadi		1	99
-Ogden		3	80
-Eldred		3	50
-Teofilo		0	55
-Merten		0	60
-Rade		0	30
-Raffael		1	40
-Greigi		0	45
-Terenzio	0	35
